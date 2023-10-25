@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on different projects to boost my expertise and to link up with fellow like-minded enthusiasts.
 - 📫 How to reach me: ahanekusandra@gmail.com or @sandi_licous on Twitter.
 
-- 🥳 Fun fact: Movies, karaoke and board games.
+- 🥳 Fun fact: I love movies, karaoke and board games.
 
 <!---
 MsSandie/MsSandie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
