@@ -1,5 +1,6 @@
-- Hi, My name is Sandra Ahaneku👋 but you can call me Sandie🙂
-- I am a Data Analyst trainee
+### Hi, My name is Sandra Ahaneku👋 but you can call me Sandie🙂
+#### **I am a Data Analyst trainee**
+
 - 🔭 I’m interested in learning as much as I can and working on different datasets.
 - 🌱 I’m currently learning advanced use of Excel, SQL, Power and Python. BI
 - 💞️ I’m looking to collaborate on different projects to boost my expertise and to link up with fellow like-minded enthusiasts.
